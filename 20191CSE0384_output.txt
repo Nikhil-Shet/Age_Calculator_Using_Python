@@ -1,0 +1,9 @@
+input your name: 
+Nikhil
+input your age: 
+20
+Nikhil's age is 20 years or 250 months or 7608 days
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
